@@ -1,0 +1,35 @@
+{
+    "authors": [
+        "Zadli"
+    ],
+    "information": {
+        "name": "Fluid",
+        "image": "https://telegra.ph/file/4e6cd497df263bd1b3aad.jpg",
+        "android": "11.0",
+        "date": "2021-01-07",
+        "version": "1.1",
+        "codename": "Rum",
+        "changelog": "https://t.me/Zadli_Building_Hub/7760",
+        "official": true
+    },
+    "downloads": {
+        "gapps": "https://sourceforge.net/projects/project-fluid/files/davinci/eleven/gapped/Fluid-1.1-Rum-OFFICIAL-davinci-20210107-gapped.zip/download",
+        "vanilla": "-",
+        "link": "-"
+    },
+    "mirrors": {
+        "gapps": "https://drive.google.com/file/d/1f9S5POSEiSv1KOUAIPlFjlqzUKHntcWi/view?usp=sharing",
+        "vanilla": "-",
+        "link": "-"
+    },
+    "donations": {
+        "paypal": "-",
+        "buymeacoffee": "-"
+    },
+    "telegram": {
+        "authors": [
+            "https://t.me/ZadliM"
+        ],
+        "group": "https://t.me/fluid_davinci"
+    }
+}
